@@ -1,1 +1,1 @@
-# Project Folder for re-learning html and css
+# Repo for re-learning html and css
